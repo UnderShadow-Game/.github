@@ -6,5 +6,7 @@ First join our [Discord](https://discord.gg/5xckMFxQhe), then do nothing as you 
 
 # For the people working on the game
 [Planning/Todo](https://github.com/UnderShadow-Game/planning-and-todo)
+
 [Story](https://github.com/UnderShadow-Game/story-scripts)
+
 [Art](https://github.com/UnderShadow-Game/art-assets)
