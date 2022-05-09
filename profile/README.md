@@ -1,6 +1,5 @@
 # UnderShadow
-It's a game. Thats all I know
-[Latest Game Builds]()
+It's a game. Thats all I know. Also [Latest Game Builds](https://unizong.com/lulz/rick-roll/)
 
 # Contribution guidelines
 First join our [Discord](https://discord.gg/5xckMFxQhe), then do nothing as you can't collaborate right now!
